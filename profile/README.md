@@ -1,4 +1,6 @@
-# Hi, I'm Zied Yousfi
+# Hi, I'm Inaya
+
+Pronouns: **she/her**.
 
 Currently studying **BTS SIO SLAM** at IRIS Paris, on apprenticeship at **Cerqual**.
 
@@ -38,3 +40,7 @@ not just *how*.
     <img width="345" align="center" alt="Top Language" src="https://gsp-rho.vercel.app/api/top-langs/?username=ZiedYousfi&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1"/>
   </a>
 </div>
+
+---
+
+Proudly being myself. Until **15/05/2026**, my GitHub username was **ziedyousfi** *(deadname)*.
