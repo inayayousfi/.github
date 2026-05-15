@@ -33,11 +33,11 @@ not just *how*.
 ## 📊 GitHub Stats
 
 <div>
-  <a href="https://gsp-rho.vercel.app/api?username=ZiedYousfi&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1">
-    <img height="190" align="center" alt="GitHub Stats" src="https://gsp-rho.vercel.app/api?username=ZiedYousfi&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1"/>
+  <a href="https://gsp-rho.vercel.app/api?username=inayayousfi&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1">
+    <img height="190" align="center" alt="GitHub Stats" src="https://gsp-rho.vercel.app/api?username=inayayousfi&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1"/>
   </a>
-  <a href="https://gsp-rho.vercel.app/api/top-langs/?username=ZiedYousfi&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1">
-    <img width="345" align="center" alt="Top Language" src="https://gsp-rho.vercel.app/api/top-langs/?username=ZiedYousfi&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1"/>
+  <a href="https://gsp-rho.vercel.app/api/top-langs/?username=inayayousfi&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1">
+    <img width="345" align="center" alt="Top Language" src="https://gsp-rho.vercel.app/api/top-langs/?username=inayayousfi&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&cache_seconds=1"/>
   </a>
 </div>
 
