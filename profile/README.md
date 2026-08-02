@@ -1,7 +1,5 @@
 # Hi, I'm Inaya
 
-Pronouns: **she/her**.
-
 Currently studying **BTS SIO SLAM** at IRIS Paris, on apprenticeship at **Cerqual**.
 
 I'm passionate about **low-level programming**, **algorithms** and **system design**. 
